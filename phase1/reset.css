@@ -1,0 +1,6 @@
+html, head, header, body, div, section, article, a, ul, h1, h2, h3, p, footer, td, th, img{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}

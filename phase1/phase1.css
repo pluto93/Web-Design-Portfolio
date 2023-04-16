@@ -1,0 +1,165 @@
+/* NAVBAR */
+
+body header{
+    
+    border-left: 6em solid pink;
+    border-right: 6em solid pink;
+    border-top: 1em solid pink;
+    border-bottom: 1em solid pink;
+}
+
+#title{
+    background-color: darksalmon;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    padding-top: 1%;
+    padding-left: 1%;
+
+    
+}
+
+#role{
+    background-color: darksalmon;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    
+}
+
+.welcome h2{
+    text-align: center;
+    font-style: italic;
+    
+}
+
+/* NAVIGATION LINKS */
+
+li{
+    display: inline;
+}
+
+nav{
+    padding: 1%;
+    background-color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    word-spacing: 0.25em;
+}
+
+a:link{
+    text-decoration: underline;
+    color: brown;
+}
+a:visited{
+    text-decoration: underline;
+    color: purple;
+}
+a:hover{
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+    background-color: deeppink;
+}
+
+/* BODY */
+
+body{
+    background-color: pink;
+    
+}
+
+/* MAIN PAGE */
+
+aside{
+    
+    position: absolute;
+    margin-left: 39em;
+    margin-right: 4em;
+}
+
+.boxed{
+    float: left;
+    
+}
+
+footer{
+    position: absolute;
+    top: 33em;
+    left: 39em;
+}
+
+hr{
+      
+    margin-top: 17em;
+}
+
+/* OTHER PAGES */
+
+div#main h3{
+    margin-left: 2em;
+    margin-top: 4em;
+    margin-bottom: 0.4em;
+    
+    
+}
+
+div#main p{
+    margin-top: 1em;
+    margin-left: 2em;
+
+}
+
+div#skills h3{
+    margin-left: 2em;
+    margin-top: 4em;
+    margin-bottom: 0.4em;
+    
+    
+}
+
+div#skills p{
+    margin-top: 1em;
+    margin-left: 2em;
+
+}
+
+div#edu h3{
+    margin-left: 2em;
+    margin-top: 4em;
+    margin-bottom: 0.4em;
+    
+    
+}
+
+div#edu p{
+    margin-top: 1em;
+    margin-left: 2em;
+
+}
+
+div#exp h3{
+    margin-left: 2em;
+    margin-top: 4em;
+    margin-bottom: 0.4em;
+    
+    
+}
+
+div#exp p{
+    margin-top: 1em;
+    margin-left: 2em;
+
+}
+
+
+
+
+
+
+  
